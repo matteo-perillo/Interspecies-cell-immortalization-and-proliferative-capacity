@@ -8,3 +8,5 @@ The repository contains the following files:
 4) "01_Imported data and trees.RData", the R environment obtained by running the script "01_Import data and trees.R";
 5) "02_Data analysis population doubling.R", the R script used to perform the analyses about the replicative capacity;
 6) "03_Data analysis immortalization rate.R", the R script used to perform the analyses about the immortalization probability.
+
+For any doubt, request or to report any problem, please email: matteo.perillo2@unibo.it
